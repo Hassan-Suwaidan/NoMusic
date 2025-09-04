@@ -26,6 +26,11 @@ Remove music from video and Audio  files
 | 🚀 **ذكي ومتكيف** | يقوم البرنامج تلقائيًا بضبط أدائه بناءً على قوة جهازك لضمان أفضل سرعة ممكنة على الأجهزة القوية واستقرار تام على الضعيفة. |
 | 💎 **ميزات احترافية إضافية** | يحتوي على خيار "تحسين وضوح الصوت" لتعزيز جودة الصوت الناتج، بالإضافة إلى خيارات متقدمة مثل منع السكون وتخطي الملفات المعالجة. |
 | 💸 **مجاني 100% كصدقة جارية** | لا توجد رسوم خفية، لا اشتراكات، ولا حدود. البرنامج مجاني تمامًا كعمل يبتغى به وجه الله. |
+### 📥 التحميل والتثبيت
+
+1.  اذهب إلى **[صفحة الإصدارات (Releases)](https://studentksuedu-my.sharepoint.com/:u:/g/personal/441106740_student_ksu_edu_sa/ES8smub4HsxNi4ig_p6FTgMBT5KMmINvAfN53-V0DYKY6A?e=MevR9G)**.
+2.  قم بتحميل أحدث ملف `setup.exe`.
+3.  قم بتشغيل الملف واتبع خطوات التثبيت البسيطة.
 
 
 
@@ -61,7 +66,11 @@ The initial Python script was created relatively quickly, but the journey to tur
 | 💎 **Professional Extra Features** | Includes a "Improve Voice Clarity" option to enhance the final audio quality, plus advanced settings like preventing sleep mode. |
 | 💸 **100% Free** | No hidden fees, no subscriptions, and no limits. This software is completely free. |
 
+### 📥 Download & Installation
 
+1.  Go to the **[Releases Page](https://studentksuedu-my.sharepoint.com/:u:/g/personal/441106740_student_ksu_edu_sa/ES8smub4HsxNi4ig_p6FTgMBT5KMmINvAfN53-V0DYKY6A?e=MevR9G)**.
+2.  Download the latest `setup.exe` file.
+3.  Run the installer and follow the simple steps.
 
 ### ❤️ Support the Project
 
