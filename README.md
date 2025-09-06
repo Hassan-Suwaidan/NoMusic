@@ -1,12 +1,13 @@
 # NoMusic
-Remove music from video and Audio  files
+Remove music from video and Audio  files 
 # 🎵 Music Cleaner (NoMusic) منظف الموسيقى
 
 ## English
 
 ### 🎵 Music Cleaner (NoMusic): Enjoy Calmer Content for Your Kids
+The best program for removing music from videos
 
-**Music Cleaner (NoMusic)** is a powerful, free desktop application for Windows, born from a personal need: the desire to watch cartoons and children's shows with my kids without the constant background music. I hope this work can be of benefit to others.
+**Music Cleaner (NoMusic)** is a powerful, free desktop application for Windows. It runs offline and handles multiple files with minimal effort and in the fastest time.
 
 ![Screenshot of the application's UI](en.jpg)
 
@@ -46,8 +47,9 @@ If you find this software useful, please consider supporting its continued devel
 ##  Arabic - عربي
 
 ### 🎧 برنامج منظف الموسيقى (نو ميوزيك): شاهد برامج أطفالك بصفاء وهدوء
+أفضل برنامج لحذف الموسيقى من الفيديو
 
-**نو ميوزيك** هو برنامج مكتبي مجاني وقوي لأنظمة ويندوز، وُلد من حاجة شخصية: الرغبة في مشاهدة برامج الأطفال والكارتون مع أطفالي دون وجود موسيقى خلفية مستمرة. أسأل الله أن يكون هذا العمل صدقة جارية.
+**نو ميوزيك** هو برنامج مكتبي مجاني وقوي لأنظمة ويندوز، يعمل على الكمبيوتر بدون إنترنت، ويتعامل مع عدة ملفات بأقل مجهود وأسرع وقت.
 
 ![صورة لواجهة البرنامج الرئيسية](image.png)
 
