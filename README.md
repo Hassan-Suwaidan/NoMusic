@@ -1,5 +1,5 @@
 # NoMusic
-Remove music from video and Audio  files 
+Remove music from video and Audio  files (windows program)
 # 🎵 Music Cleaner (NoMusic) منظف الموسيقى
 
 ## English
