@@ -1,87 +1,75 @@
-# NoMusic
-Remove music from video and Audio  files (windows program)
-# 🎵 Music Cleaner (NoMusic) منظف الموسيقى
+# 🎵 No Music (Music Separator Pro) - برنامج نو ميوزيك
 
-## English
+**[English](#-no-music-music-separator-pro) | [عربي](#-برنامج-نو-ميوزيك-لفصل-الموسيقى)**
 
-### 🎵 Music Cleaner (NoMusic): Enjoy Calmer Content for Your Kids
-The best program for removing music from videos
-
-**Music Cleaner (NoMusic)** is a powerful, free desktop application for Windows. It runs offline and handles multiple files with minimal effort and in the fastest time.
-
-![Screenshot of the application's UI](en.jpg)
-
-
-### 📖 The Story Behind This App
-
-This program was created entirely with the help of Artificial Intelligence. I am not a programmer, but I had a clear goal: to find an easy way to remove music from the children's shows I download to play on our TV.
-
-The initial Python script was created relatively quickly, but the journey to turn it into a real, user-friendly application that works reliably on different computers was a long road of trial and error. I am grateful for the guidance that made it possible.
-
-### ✨ Why Choose This Software?
-
-| Feature | Description |
-|---|---|
-| 🎯 **Designed with a Purpose** | Built specifically for families looking for quieter, music-free content for their children. |
-| 💻 **Works Entirely Offline** | No need to upload your files. Your privacy and security are 100% guaranteed. |
-| 🌐 **No Internet Required** | Once downloaded, you can use the application anywhere, anytime. |
-| 🚀 **Smart & Adaptive** | The app automatically adjusts its performance based on your computer's resources, ensuring maximum speed on powerful machines and stability on weaker ones. |
-| 💎 **Professional Extra Features** | Includes a "Improve Voice Clarity" option to enhance the final audio quality, plus advanced settings like preventing sleep mode. |
-| 💸 **100% Free** | No hidden fees, no subscriptions, and no limits. This software is completely free. |
-
-### 📥 Download & Installation
-
-1.  Go to the **[Releases Page](https://studentksuedu-my.sharepoint.com/:u:/g/personal/441106740_student_ksu_edu_sa/ES8smub4HsxNi4ig_p6FTgMBT5KMmINvAfN53-V0DYKY6A?e=MevR9G)**.
-2.  Download the latest `setup.exe` file.
-3.  Run the installer and follow the simple steps.
-
-### ❤️ Support the Project
-
-If you find this software useful, please consider supporting its continued development via:
-- **[Ko-fi](https://ko-fi.com/cvdesign)**
-- **[PayPal](mailto:hassan_mohammed32@yahoo.com)**
-
-
-
+---
 
 ##  Arabic - عربي
 
-### 🎧 برنامج منظف الموسيقى (نو ميوزيك): شاهد برامج أطفالك بصفاء وهدوء
-أفضل برنامج لحذف الموسيقى من الفيديو
+### 🎧 نو ميوزيك: شاهد برامجك المفضلة بصفاء وهدوء
 
-**نو ميوزيك** هو برنامج مكتبي مجاني وقوي لأنظمة ويندوز، يعمل على الكمبيوتر بدون إنترنت، ويتعامل مع عدة ملفات بأقل مجهود وأسرع وقت.
+**نو ميوزيك (فاصل الموسيقى الاحترافي)** هو تطبيق مكتبي فريد لنظام ويندوز، مصمم خصيصًا **لحذف الموسيقى** من ملفات الفيديو والصوت، مع الحفاظ على صوت الحوار والشخصيات. إنه الحل المثالي للعائلات وصناع المحتوى الذين يبحثون عن تجربة مشاهدة هادئة وخالية من الموسيقى.
 
-![صورة لواجهة البرنامج الرئيسية](image.png)
+**جرّب البرنامج مجانًا لمدة 3 أيام واحصل على نسختك الكاملة اليوم!**
 
+![صورة لواجهة البرنامج الرئيسية](images/screenshot-ar.png)
+*(استبدل `images/screenshot-ar.png` بالمسار الصحيح لصورة واجهة البرنامج بالعربية)*
 
 ### 📖 قصة البرنامج
 
-تم إنشاء هذا البرنامج بالكامل بمساعدة الذكاء الاصطناعي. أنا لست مبرمجًا، ولكن كان لدي هدف واضح: إيجاد طريقة سهلة لحذف الموسيقى من برامج الأطفال التي أحملها من الإنترنت لأعرضها على شاشة التلفزيون.
+وُلد هذا البرنامج من حاجة شخصية: الرغبة في مشاهدة برامج الأطفال والكارتون مع عائلتي دون وجود موسيقى تصويرية مستمرة. وبمساعدة الذكاء الاصطناعي، تم بناء هذا الحل الذي أضعه بين يديكم اليوم. الرحلة لم تكن سهلة، خاصة في تحويل فكرة بسيطة إلى تطبيق مستقر وذكي يعمل على مختلف الأجهزة، ولكن بفضل الله، وصلنا إلى منتج نفخر به ونسأل الله أن يكون نافعًا.
 
-الكود الأساسي بلغة بايثون لم يستغرق وقتًا طويلاً، لكن رحلة تحويله إلى برنامج حقيقي بواجهة رسومية سهلة، يعمل على مختلف الأجهزة بإمكانياتها المتفاوتة، كانت رحلة طويلة من التجربة والخطأ. والحمد لله الذي أعان ووفق.
+### ✨ لماذا "نو ميوزيك" هو الحل الذي تبحث عنه؟
 
-### ✨ لماذا تختار هذا البرنامج؟
-
-| الميزة | الشرح |
+| الميزة | الفائدة التي تحصل عليها |
 |---|---|
-| 🎯 **مصمم لهدف نبيل** | تم بناؤه خصيصًا للعائلات التي تبحث عن محتوى هادئ وخالٍ من الموسيقى لأطفالها. |
-| 💻 **يعمل بالكامل على جهازك** | لا حاجة لرفع ملفاتك على الإنترنت. خصوصيتك وأمان ملفاتك مضمونة 100%. |
-| 🌐 **لا يتطلب اتصال بالإنترنت** | بمجرد تحميل البرنامج، يمكنك استخدامه في أي مكان وزمان. |
-| 🚀 **ذكي ومتكيف** | يقوم البرنامج تلقائيًا بضبط أدائه بناءً على قوة جهازك لضمان أفضل سرعة ممكنة على الأجهزة القوية واستقرار تام على الضعيفة. |
-| 💎 **ميزات احترافية إضافية** | يحتوي على خيار "تحسين وضوح الصوت" لتعزيز جودة الصوت الناتج، بالإضافة إلى خيارات متقدمة مثل منع السكون وتخطي الملفات المعالجة. |
-| 💸 **مجاني 100%** | لا توجد رسوم خفية، لا اشتراكات، ولا حدود. البرنامج مجاني تمامًا. |
-### 📥 التحميل والتثبيت
+| 🎯 **مصمم لهدف واضح** | تم بناؤه خصيصًا للعائلات التي تبحث عن محتوى هادئ، ولصناع المحتوى الذين يريدون تنقية فيديوهاتهم من الموسيقى. |
+| 🔒 **خصوصية وأمان 100%** | كل عمليات المعالجة تتم على جهازك الخاص. ملفاتك لا تترك حاسوبك أبدًا. |
+| 🌐 **يعمل بدون إنترنت** | لا حاجة للاتصال بالإنترنت. عالج ملفاتك في أي وقت وفي أي مكان. |
+| 🚀 **أداء ذكي ومتكيف** | يقوم البرنامج تلقائيًا بموازنة أدائه ليناسب قوة جهازك، مما يضمن أفضل أداء دون التسبب في تجميد النظام. |
+| 💎 **يحافظ على جودة الفيديو** | البرنامج يعالج المسار الصوتي فقط ويتركه متزامنًا مع الفيديو الأصلي دون أي تأثير على جودة الصورة. |
+| 🎤 **تحسين وضوح الحوار** | استخدم خيار "تحسين وضوح الصوت" لتعزيز جودة صوت الحوار والشخصيات بعد إزالة الموسيقى. |
 
-1.  اذهب إلى **[صفحة الإصدارات (Releases)](https://studentksuedu-my.sharepoint.com/:u:/g/personal/441106740_student_ksu_edu_sa/ES8smub4HsxNi4ig_p6FTgMBT5KMmINvAfN53-V0DYKY6A?e=MevR9G)**.
-2.  قم بتحميل أحدث ملف `setup.exe`.
-3.  قم بتشغيل الملف واتبع خطوات التثبيت البسيطة.
+### 📥 النسخة التجريبية والشراء
 
+1.  **حمّل النسخة التجريبية:** اذهب إلى **[صفحة الإصدارات (Releases)](https://github.com/your-username/your-repo-name/releases)** وحمّل أحدث نسخة `setup.exe`.
+2.  **جرّب مجانًا:** استمتع بكل ميزات البرنامج لمدة 3 أيام.
+3.  **احصل على ترخيصك:** بعد انتهاء الفترة التجريبية أو خلالها، يمكنك شراء ترخيص مدى الحياة من داخل البرنامج.
 
-
-### ❤️ ادعم المشروع
-
-إذا وجدت هذا البرنامج مفيدًا وحقق لك الهدف المرجو منه، يمكنك المساعدة في استمرار هذا العمل ودعمه عبر:
-- **[Ko-fi](https://ko-fi.com/cvdesign)**
-- **[PayPal](mailto:hassan_mohammed32@yahoo.com)**
+*(استبدل `your-username/your-repo-name` باسم المستخدم والمستودع الخاص بك على GitHub)*
 
 ---
+
+## English
+
+### 🎵 No Music (Music Separator Pro): Enjoy Your Content in Peace
+
+**No Music (Music Separator Pro)** is a unique desktop application for Windows, specifically designed to **remove music** from video and audio files while preserving dialogue and character voices. It's the perfect solution for families and content creators seeking a quieter, music-free viewing experience.
+
+**Try it for FREE for 3 days and get your full license today!**
+
+![Screenshot of the application's UI](images/screenshot-en.png)
+*(Replace `images/screenshot-en.png` with the correct path to your English UI screenshot)*
+
+### 📖 The Story Behind This App
+
+This program was born from a personal need: the desire to watch children's shows and cartoons with my family without the constant background music. With the help of AI, this solution was built, and I'm proud to share it with you today. The journey was a long road of trial and error, but it resulted in a product we are proud of.
+
+### ✨ Why "No Music" is the Solution You've Been Looking For
+
+| Feature | Your Benefit |
+|---|---|
+| 🎯 **Designed with a Clear Purpose** | Built for families who want quieter content and for creators who need to purify their videos from music. |
+| 🔒 **100% Private & Secure** | All processing happens locally. Your files never leave your computer. |
+| 🌐 **Works Offline** | No internet connection required. Process your files anytime, anywhere. |
+| 🚀 **Smart & Adaptive Performance** | The app automatically balances its performance to fit your PC's power, ensuring optimal results without freezing your system. |
+| 💎 **Preserves Video Quality** | The program only processes the audio track and keeps it perfectly synced with the original video, with zero impact on picture quality. |
+| 🎤 **Enhance Dialogue Clarity** | Use the "Improve Voice Clarity" option to boost the quality of dialogue and character voices after the music has been removed. |
+
+### 📥 Trial & Purchase
+
+1.  **Download the Trial:** Go to the **[Releases Page](https://github.com/your-username/your-repo-name/releases)** and download the latest `setup.exe`.
+2.  **Try for Free:** Enjoy all features for a 3-day trial period.
+3.  **Get Your License:** After or during the trial, you can purchase a lifetime license from within the application.
+
+*(Replace `your-username/your-repo-name` with your actual GitHub username and repository name)*
