@@ -12,9 +12,8 @@
 
 **جرّب البرنامج مجانًا لمدة 3 أيام واحصل على نسختك الكاملة اليوم!**
 
-![صورة لواجهة البرنامج الرئيسية](images/screenshot-ar.png)
-*(استبدل `images/screenshot-ar.png` بالمسار الصحيح لصورة واجهة البرنامج بالعربية)*
-
+![صورة لواجهة البرنامج الرئيسية](image.png)
+ 
 ### 📖 قصة البرنامج
 
 وُلد هذا البرنامج من حاجة شخصية: الرغبة في مشاهدة برامج الأطفال والكارتون مع عائلتي دون وجود موسيقى تصويرية مستمرة. وبمساعدة الذكاء الاصطناعي، تم بناء هذا الحل الذي أضعه بين يديكم اليوم. الرحلة لم تكن سهلة، خاصة في تحويل فكرة بسيطة إلى تطبيق مستقر وذكي يعمل على مختلف الأجهزة، ولكن بفضل الله، وصلنا إلى منتج نفخر به ونسأل الله أن يكون نافعًا.
@@ -48,9 +47,8 @@
 
 **Try it for FREE for 3 days and get your full license today!**
 
-![Screenshot of the application's UI](images/screenshot-en.png)
-*(Replace `images/screenshot-en.png` with the correct path to your English UI screenshot)*
-
+![Screenshot of the application's UI](en.png)
+ 
 ### 📖 The Story Behind This App
 
 This program was born from a personal need: the desire to watch children's shows and cartoons with my family without the constant background music. With the help of AI, this solution was built, and I'm proud to share it with you today. The journey was a long road of trial and error, but it resulted in a product we are proud of.
