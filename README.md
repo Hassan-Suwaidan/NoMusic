@@ -31,11 +31,10 @@
 
 ### 📥 النسخة التجريبية والشراء
 
-1.  **حمّل النسخة التجريبية:** اذهب إلى **[صفحة الإصدارات (Releases)](https://github.com/your-username/your-repo-name/releases)** وحمّل أحدث نسخة `setup.exe`.
+1.  **حمّل النسخة التجريبية:** اذهب إلى **[صفحة الإصدارات (Releases)](https://github.com/Hassan-Suwaidan/NoMusic/releases)** وحمّل أحدث نسخة `setup.exe`.
 2.  **جرّب مجانًا:** استمتع بكل ميزات البرنامج لمدة 3 أيام.
 3.  **احصل على ترخيصك:** بعد انتهاء الفترة التجريبية أو خلالها، يمكنك شراء ترخيص مدى الحياة من داخل البرنامج.
 
-*(استبدل `your-username/your-repo-name` باسم المستخدم والمستودع الخاص بك على GitHub)*
 
 ---
 
@@ -66,8 +65,7 @@ This program was born from a personal need: the desire to watch children's shows
 
 ### 📥 Trial & Purchase
 
-1.  **Download the Trial:** Go to the **[Releases Page](https://github.com/your-username/your-repo-name/releases)** and download the latest `setup.exe`.
+1.  **Download the Trial:** Go to the **[Releases Page](https://github.com/Hassan-Suwaidan/NoMusic/releases)** and download the latest `setup.exe`.
 2.  **Try for Free:** Enjoy all features for a 3-day trial period.
 3.  **Get Your License:** After or during the trial, you can purchase a lifetime license from within the application.
 
-*(Replace `your-username/your-repo-name` with your actual GitHub username and repository name)*
