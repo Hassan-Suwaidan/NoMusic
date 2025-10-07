@@ -46,7 +46,7 @@
 
 **Try it for FREE for 3 days and get your full license today!**
 
-![Screenshot of the application's UI](en.png)
+![Screenshot of the application's UI](en.jpg)
  
 ### 📖 The Story Behind This App
 
